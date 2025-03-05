@@ -68,6 +68,8 @@ Because we live for chaos. And to prove that you can build *anything* with Postg
 4.  The frontend should be available at [http://localhost:3000](http://localhost:3000). Prepare to be amazed (or slightly nauseated)! 😵‍💫
 5.  Visit [http://localhost:8080](http://localhost:8080) to access Swagger UI and explore the API endpoints. 🧭
 
+### User Interface 
+<img src="https://github.com/user-attachments/assets/0afd6f25-04eb-428f-b542-ff15ae39b94e" alt="Image" width="500" height="300">
 
 ### Database Structure
 
