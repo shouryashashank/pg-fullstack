@@ -27,17 +27,19 @@ Because we live for chaos. And to prove that you can build *anything* with Postg
 
 ### Prerequisites
 
-*   Docker (because who wants to install Postgres directly? 😅)
-*   Docker Compose (because life is too short for manual container orchestration)
+*   Podman (because who wants to install Postgres directly? 😅) 
+*   Podman Compose (because life is too short for manual container orchestration)
+
+    ** you can also use docker instead.
 
 ### Installation Instructions
 
 1.  Clone this repository. 💾
 
-```bash
-    git clone [your repo link here]
-    cd [repo directory]
-```
+    ```bash
+        git clone https://github.com/shouryashashank/pg-fullstack.git
+        cd pg-fullstack
+    ```
 
 2.  Fire up the Podman Compose magic. ✨ or docker if you are still using it
     ```bash
