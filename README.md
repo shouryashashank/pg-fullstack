@@ -108,6 +108,7 @@ If you're feeling brave (or foolish), feel free to contribute! But be warned, th
 
 *   The PostgreSQL community, for making this madness possible.
 *   PostgREST, for being the gateway drug to database-driven insanity.
+*   Fireship for his wisdom.🔥
 *   My sanity, which I sacrificed for this project. 💀
 
 ## Contact 📧
